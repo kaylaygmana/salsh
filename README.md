@@ -12,3 +12,6 @@ Project ini dibuat dengan menggunakan aplikasi:
 Run
 Project ini membutuhkan Visual Stuido Code untuk dijalankan.
 Visual Studio Code harus berbasis bahasa pemograman python.
+
+Output
+Output yang akan muncul hanya data yang telah terdaftar.
